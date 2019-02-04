@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>
+7 wonders of 7 the world
+</title>
+</head>
+<body bgcolor="light blue">
+<center>
+<font  size="6"  face="homewardbound"  color="yellow"> <u> <b> 7 wonders of the world  </b></u>  </font>
+<img src="b.jpg" height="20" width="20"> </img>
+</center>
+<marquee>
+<font size="3" face="arial" color="yellow">our heritage</font>
+</marquee>
+</body>
+</html>
+
